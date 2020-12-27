@@ -17,6 +17,8 @@ Generative Adversarial Networks
 
 - Kodali 2017 - On Convergence and Stability of GANs [arXiv](https://arxiv.org/abs/1705.07215)
 
+- Arjovsky 2017 - Towards Principled Methods of Training GANs [arXiv](https://arxiv.org/abs/1701.04862)
+
 - Arjovsky 2017 - Wasserstein GAN [arXiv](https://arxiv.org/abs/1701.07875)
 
 - Gulrajani 2017 - Improved Training of Wasserstein GANs [arXiv](https://arxiv.org/abs/1704.00028)
@@ -26,6 +28,12 @@ Generative Adversarial Networks
 - Shen 2020 - Interpreting the Latent Space of GANs for Semantic Face Editing [arXiv](https://arxiv.org/abs/1907.10786)
 
 
+-----------------------------------------------
+
+## Internet Articles / Discussions 
+
+- What is the manifold assumption in semi-supervised learning? [Cross Validated answer](https://stats.stackexchange.com/questions/66939/what-is-the-manifold-assumption-in-semi-supervised-learning)
+
 
 -----------------------------------------------
 
@@ -33,3 +41,9 @@ Generative Adversarial Networks
 
 - PyTorch-GAN: Collection of GAN code implemented in PyTorch [github](https://github.com/eriklindernoren/PyTorch-GAN)
 
+
+-----------------------------------------------
+
+## Miscellaneous Resources
+
+- Josh Tenenbaum's NIPS 1997 paper "Mapping a maniforld of perceptual observations" [paper](http://web.mit.edu/cocosci/Papers/man_nips.pdf)
