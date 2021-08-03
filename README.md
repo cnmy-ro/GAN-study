@@ -1,8 +1,5 @@
 # GAN Literature and Code
-Generative Adversarial Networks
 
-
------------------------------------------------
 
 ## Classic Papers
 
@@ -36,19 +33,19 @@ Generative Adversarial Networks
 
 ### Evaluation 
 
-- Lucic et al. (2018) - Are GANs Created Equal? A Large-Scale Study [arXiv](https://arxiv.org/abs/1711.10337)
+- Lucic et al. (2018) - Are GANs Created Equal? A Large-Scale Study - [arXiv](https://arxiv.org/abs/1711.10337)
 
 
 ### Interpretability
 
-- Shen et al. (2020) - Interpreting the Latent Space of GANs for Semantic Face Editing [arXiv](https://arxiv.org/abs/1907.10786)
+- Shen et al. (2020) - Interpreting the Latent Space of GANs for Semantic Face Editing - [arXiv](https://arxiv.org/abs/1907.10786)
 
-- Bau et al. (2020) - Understanding the Role of Individual Units in a Deep Neural Network [arXiv](https://arxiv.org/abs/2009.05041)
+- Bau et al. (2020) - Understanding the Role of Individual Units in a Deep Neural Network - [arXiv](https://arxiv.org/abs/2009.05041)
 
 
 ### Cool Applied Stuff
 
-- Park et al. (2019) - Semantic Image Synthesis with Spatially-Adaptive Normalization [arXiv](https://arxiv.org/abs/1903.07291)
+- Park et al. (2019) - Semantic Image Synthesis with Spatially-Adaptive Normalization - [arXiv](https://arxiv.org/abs/1903.07291)
 
 
 
@@ -56,18 +53,18 @@ Generative Adversarial Networks
 
 ## Internet Articles / Discussions 
 
-- What is the manifold assumption in semi-supervised learning? [Cross Validated answer](https://stats.stackexchange.com/questions/66939/what-is-the-manifold-assumption-in-semi-supervised-learning)
+- What is the manifold assumption in semi-supervised learning? - [Cross Validated answer](https://stats.stackexchange.com/questions/66939/what-is-the-manifold-assumption-in-semi-supervised-learning)
 
 
 -----------------------------------------------
 
 ## 3rd Party Code
 
-- PyTorch-GAN: Collection of GAN code implemented in PyTorch [github](https://github.com/eriklindernoren/PyTorch-GAN)
+- PyTorch-GAN: Collection of GAN code implemented in PyTorch - [github](https://github.com/eriklindernoren/PyTorch-GAN)
 
 
 -----------------------------------------------
 
 ## Miscellaneous Resources
 
-- Josh Tenenbaum's NIPS-1997 paper "Mapping a Manifold of Perceptual Observations" [pdf](http://web.mit.edu/cocosci/Papers/man_nips.pdf)
+- Josh Tenenbaum's NIPS-1997 paper "Mapping a Manifold of Perceptual Observations" - [pdf](http://web.mit.edu/cocosci/Papers/man_nips.pdf)
